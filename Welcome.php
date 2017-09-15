@@ -29,9 +29,10 @@
 </nav>
 <h1>Welkom</h1>
 <p>Ik zie dat je weer komt "studeren"</p>
-<a href="busreis.php" class="btn btn-info" role="button">Busreis</a><br><br>
+<a href="busreis.php" class="btn btn-success" role="button">Busreis</a><br><br>
 <a href="kerstboom.php" class="btn btn-danger" role="button">Kerstboom</a>
-
+<a href="zwembad.php" class="btn btn-info" role="button">Zwembad</a>
+<a href="kapperszaak.php" class="btn btn-primary" role="button">Kapperszaak</a>
 <blockquote class="blockquote-reverse">
     <kdb> Life is basically like a soap bubble.<br>
         It rides on the wind, flying here and there,
