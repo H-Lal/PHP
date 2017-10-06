@@ -17,23 +17,32 @@
     </div>
     <!--Navbar-header-->
     <p class="navbar-text">
-        Lekker "Studeren"!!!
+        Lekker Studeren!!!
     </p>
     <ul class="nav navbar-nav">
-        <li><a href="opdracht1.php">PHP</a></li>
-        <li><a href="">CODE-X</a></li>
         <li>
             <a href="https://roosters.xedule.nl/Attendee/ScheduleCurrent/84753?Code=MMVAOO7B&attId=1&OreId=84">Rooster</a>
         </li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+
     </ul>
 </nav>
 <h1>Welkom</h1>
-<p>Ik zie dat je weer komt "studeren"</p>
-<a href="busreis.php" class="btn btn-success" role="button">Busreis</a><br><br>
-<a href="kerstboom.php" class="btn btn-danger" role="button">Kerstboom</a><br><br>
-<a href="zwembad.php" class="btn btn-primary" role="button">Zwembad</a><br><br>
-<a href="kapperszaak.php" class="btn btn-info" role="button">Kapperszaak</a><br><br>
-<blockquote class="blockquote-reverse">
+<p>GO HARD OR GO HOME</p>
+<a href="busreis.php" class="btn btn-success btn-block" role="button">Busreis</a>
+<a href="kerstboom.php" class="btn btn-danger btn-block" role="button">Kerstboom</a>
+<a href="controlestructuren.php" class="btn btn-warning btn-block" role="button">Controlestructuren</a>
+<a href="zwembad.php" class="btn btn-primary btn-block" role="button">Zwembad</a>
+<a href="kapperszaak.php" class="btn btn-info btn-block" role="button">Kapperszaak</a>
+<blockquote class="blockquote">
+    <kdb> I live my life based on two principles. <br>
+        One, I live as if today was my last day on earth. <br>
+        Two, I live today as if I am going to live forever. <br>
+    </kdb>
+    <footer>Osho(Rajneesh)</footer>
+</blockquote>
+<blockquote class="blockquote">
     <kdb> Life is basically like a soap bubble.<br>
         It rides on the wind, flying here and there,
         and before you realize it, pop! It’s gone.<br>
@@ -41,7 +50,7 @@
         that you could’ve flown a bit higher.<br>
         But by the time, it’s already too late......
     </kdb>
-    <footer>Sakata Gintoki (Gintama)</footer>
+    <footer>Sakata Gintoki</footer>
 </blockquote>
 
 </body>
