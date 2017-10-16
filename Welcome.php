@@ -35,6 +35,11 @@
 <a href="controlestructuren.php" class="btn btn-warning btn-block" role="button">Controlestructuren</a>
 <a href="zwembad.php" class="btn btn-primary btn-block" role="button">Zwembad</a>
 <a href="kapperszaak.php" class="btn btn-info btn-block" role="button">Kapperszaak</a>
+<a href="functies.php" class="btn btn-success btn-block" role="button">Functies</a>
+<a href="" class="btn btn-danger btn-block" role="button">Coming soon!</a>
+<br>
+<br>
+<br>
 <blockquote class="blockquote">
     <kdb> I live my life based on two principles. <br>
         One, I live as if today was my last day on earth. <br>
@@ -42,6 +47,9 @@
     </kdb>
     <footer>Osho(Rajneesh)</footer>
 </blockquote>
+<br>
+<br>
+
 <blockquote class="blockquote">
     <kdb> Life is basically like a soap bubble.<br>
         It rides on the wind, flying here and there,
