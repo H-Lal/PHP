@@ -35,8 +35,12 @@
 <a href="controlestructuren.php" class="btn btn-warning btn-block" role="button">Controlestructuren</a>
 <a href="zwembad.php" class="btn btn-primary btn-block" role="button">Zwembad</a>
 <a href="kapperszaak.php" class="btn btn-info btn-block" role="button">Kapperszaak</a>
-<a href="functies.php" class="btn btn-success btn-block" role="button">Functies</a>
-<a href="" class="btn btn-danger btn-block" role="button">Coming soon!</a>
+<a href="3functies.php" class="btn btn-success btn-block" role="button">Functies</a>
+<a href="form.html" class="btn btn-danger btn-block" role="button">Form</a>
+<a href="includes.php" class="btn btn-warning btn-block" role="button">Includes</a>
+<a href="" class="btn btn-primary btn-block" role="button">Coming Soon!</a>
+<a href="" class="btn btn-info btn-block" role="button">Coming Soon!</a>
+
 <br>
 <br>
 <br>
