@@ -55,7 +55,9 @@ Wachtwoord <br>
     <br><hr>
 </form>
 <p><a href="login.php?loguit"</a>Uitloggen</p>
-<p><a href="website.php"</a>website</p>
+<p><a href="website.php"</a>Website</p>
+<p><a href="admin.php"</a>Admin</p>
+
 
 </body>
 </html>
