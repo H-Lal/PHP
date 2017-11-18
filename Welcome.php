@@ -30,16 +30,16 @@
 </nav>
 <h1>Welkom</h1>
 <p>GO HARD OR GO HOME</p>
-<a href="busreis.php" class="btn btn-success btn-block" role="button">Busreis</a>
-<a href="kerstboom.php" class="btn btn-danger btn-block" role="button">Kerstboom</a>
-<a href="controlestructuren.php" class="btn btn-warning btn-block" role="button">Controlestructuren</a>
-<a href="zwembad.php" class="btn btn-primary btn-block" role="button">Zwembad</a>
-<a href="kapperszaak.php" class="btn btn-info btn-block" role="button">Kapperszaak</a>
-<a href="3functies.php" class="btn btn-success btn-block" role="button">Functies</a>
-<a href="form.html" class="btn btn-danger btn-block" role="button">Form</a>
-<a href="includes.php" class="btn btn-warning btn-block" role="button">Includes</a>
-<a href="" class="btn btn-primary btn-block" role="button">Coming Soon!</a>
-<a href="" class="btn btn-info btn-block" role="button">Coming Soon!</a>
+<a href="Beginopdrachten/busreis.php" class="btn btn-info btn-default" " role="button">Busreis</a>
+<a href="Beginopdrachten/kerstboom.php" class="btn btn-info btn-default" " role="button">Kerstboom</a>
+<a href="Beginopdrachten/controlestructuren.php" class="btn btn-info btn-blodefault" ck" role="button">Controlestructuren</a>
+<a href="Beginopdrachten/zwembad.php" class="btn btn-info btn-default" " role="button">Zwembad</a>
+<a href="Beginopdrachten/kapperszaak.php" class="btn btn-info btn-default" " role="button">Kapperszaak</a>
+<a href="Beginopdrachten/3functies.php" class="btn btn-info btn-default" " role="button">Functies</a>
+<a href="Loginpagina/form.html" class="btn btn-info btn-default" " role="button">Form</a>
+<a href="Album/includes.php" class="btn btn-info btn-default" " role="button">Includes</a>
+<a href="" class="btn btn-primary btn-info" role="default" ">Coming Soon!</a>
+<a href="" class="btn btn-info btn-info" role="default" ">Coming Soon!</a>
 
 <br>
 <br>
